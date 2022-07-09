@@ -3,11 +3,11 @@ Esté código pertenece a un ejercicio realizado en el curso profesional Javascr
 
 ## Descripción ⌨️
 Crea un script donde el usuario elija entre lo siguiente:
-    - ¿Qué desea cenar? Y pueda poner dos opciones Carne o Pescado.
-    - Y luego se le pregunte también si desea o no postre
-        - Si eligió cenar Carne-> pago 23 €
-        - Si eligió cenar Pescado-> pago 15 €
-        - Si tomo postre-> el postre valió 3 €
+- ¿Qué desea cenar? Y pueda poner dos opciones Carne o Pescado.
+- Y luego se le pregunte también si desea o no postre.
+  - Si eligió cenar Carne-> pago 23 €.
+  - Si eligió cenar Pescado-> pago 15 €.
+  - Si tomo postre-> el postre valió 3 €.
 Calcular el valor total de la cena dependiendo de las opciones que elija por teclado el usuario, incluyendo una propina del 6%.
 
 El Objetivo principal de este ejercicio es el uso de las funciones Callback junto con las funciones que reciben parámetros.
