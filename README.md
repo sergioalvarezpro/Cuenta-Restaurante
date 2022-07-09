@@ -14,7 +14,7 @@ Calcular el valor total de la cena dependiendo de las opciones que elija por tec
 El Objetivo principal de este ejercicio es el uso de las funciones Callback junto con las funciones que reciben parámetros.
 
 ## URL para ver el resultado 🌐
-
+https://sergioalvarezpro.github.io/Cuenta-Restaurante/
 
 ## Instalación 🛠️
 Este proyecto no requiere de instalación. Puedes ver el resultado haciendo click en el enlace del apartado anterior "URL para ver el resultado".
